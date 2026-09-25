@@ -1,0 +1,169 @@
+{
+  "sections": {
+    "main": {
+      "type": "lookbook-gallery",
+      "blocks": {
+        "look_1": {
+          "type": "look",
+          "settings": {
+            "title": "Weekend Denim",
+            "subtitle": "Look 01",
+            "products": [
+              "denim-trucker-jacket",
+              "essential-tee-cobalt",
+              "stonewash-slim-jeans",
+              "leather-lace-up-boots",
+              "aviator-sunglasses"
+            ],
+            "anchor": "look-1",
+            "image": "shopify://shop_images/lookbook-look-01.jpg"
+          }
+        },
+        "look_2": {
+          "type": "look",
+          "settings": {
+            "title": "Autumn Layers",
+            "subtitle": "Look 02",
+            "products": [
+              "camel-wool-coat",
+              "white-midi-dress",
+              "studded-flats",
+              "gold-pendant-necklace"
+            ],
+            "anchor": "look-2",
+            "image": "shopify://shop_images/lookbook-look-02.jpg"
+          }
+        },
+        "look_3": {
+          "type": "look",
+          "settings": {
+            "title": "Sharp Tailoring",
+            "subtitle": "Look 03",
+            "products": [
+              "three-piece-suit",
+              "oxford-button-down",
+              "silk-tie",
+              "wood-leather-watch",
+              "leather-messenger-bag"
+            ],
+            "anchor": "look-3",
+            "image": "shopify://shop_images/lookbook-look-03.jpg"
+          }
+        },
+        "look_4": {
+          "type": "look",
+          "settings": {
+            "title": "Summer Florals",
+            "subtitle": "Look 04",
+            "products": [
+              "floral-sundress",
+              "aviator-sunglasses",
+              "gold-pendant-necklace",
+              "studded-flats"
+            ],
+            "anchor": "look-4",
+            "image": "shopify://shop_images/lookbook-look-04.jpg"
+          }
+        },
+        "look_5": {
+          "type": "look",
+          "settings": {
+            "title": "Off Duty",
+            "subtitle": "Look 05",
+            "products": [
+              "light-overcoat",
+              "chambray-work-shirt",
+              "stonewash-slim-jeans",
+              "felt-fedora",
+              "leather-lace-up-boots"
+            ],
+            "anchor": "look-5",
+            "image": "shopify://shop_images/lookbook-look-05.jpg"
+          }
+        },
+        "look_6": {
+          "type": "look",
+          "settings": {
+            "title": "Night Out",
+            "subtitle": "Look 06",
+            "products": [
+              "faux-fur-coat",
+              "red-maxi-dress",
+              "studded-flats",
+              "gold-pendant-necklace"
+            ],
+            "anchor": "look-6",
+            "image": "shopify://shop_images/lookbook-look-06.jpg"
+          }
+        },
+        "look_7": {
+          "type": "look",
+          "settings": {
+            "title": "Downtown Moto",
+            "subtitle": "Look 07",
+            "products": [
+              "leather-moto-jacket",
+              "essential-tee-3-pack",
+              "denim-cutoff-shorts",
+              "leather-lace-up-boots"
+            ],
+            "anchor": "look-7",
+            "image": "shopify://shop_images/lookbook-look-07.jpg"
+          }
+        },
+        "look_8": {
+          "type": "look",
+          "settings": {
+            "title": "Easy Weekend",
+            "subtitle": "Look 08",
+            "products": [
+              "essential-tee-3-pack",
+              "denim-cutoff-shorts",
+              "aviator-sunglasses",
+              "studded-flats"
+            ],
+            "anchor": "look-8",
+            "image": "shopify://shop_images/lookbook-look-08.jpg"
+          }
+        },
+        "look_9": {
+          "type": "look",
+          "settings": {
+            "title": "Blush Hour",
+            "subtitle": "Look 09",
+            "products": [
+              "pink-summer-set",
+              "aviator-sunglasses",
+              "gold-pendant-necklace",
+              "studded-flats"
+            ],
+            "anchor": "look-9",
+            "image": "shopify://shop_images/lookbook-look-09.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "look_1",
+        "look_2",
+        "look_3",
+        "look_4",
+        "look_5",
+        "look_6",
+        "look_7",
+        "look_8",
+        "look_9"
+      ],
+      "settings": {
+        "heading": "F/W 2026 Lookbook",
+        "columns_desktop": 3,
+        "columns_mobile": "2",
+        "gap": 8,
+        "image_ratio": "portrait-tall",
+        "card_hint": "Shop the look"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

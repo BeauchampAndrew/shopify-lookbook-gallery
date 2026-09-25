@@ -1,0 +1,114 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Image Src,Image Position,Image Alt Text,Status
+leather-moto-jacket,Leather Moto Jacket,<p>Buttery lambskin with an asymmetric zip and quilted shoulders. Broken in from day one.</p>,Common Thread,Outerwear,"women, outerwear, fall, new",TRUE,Size,XS,CT-LEATHER-MOTO-JACKET-XS,500,shopify,25,deny,manual,245.00,295.00,TRUE,TRUE,https://burst.shopifycdn.com/photos/close-up-leather-jacket-over-shoulders.jpg?width=1600,1,Leather Moto Jacket,active
+leather-moto-jacket,,,,,,,,S,CT-LEATHER-MOTO-JACKET-S,500,shopify,25,deny,manual,245.00,295.00,TRUE,TRUE,,,,
+leather-moto-jacket,,,,,,,,M,CT-LEATHER-MOTO-JACKET-M,500,shopify,25,deny,manual,245.00,295.00,TRUE,TRUE,,,,
+leather-moto-jacket,,,,,,,,L,CT-LEATHER-MOTO-JACKET-L,500,shopify,25,deny,manual,245.00,295.00,TRUE,TRUE,,,,
+leather-moto-jacket,,,,,,,,XL,CT-LEATHER-MOTO-JACKET-XL,500,shopify,25,deny,manual,245.00,295.00,TRUE,TRUE,,,,
+light-overcoat,Stone Overcoat,"<p>A lightweight wool-blend overcoat in stone. Notch lapel, clean single-breasted front.</p>",Common Thread,Outerwear,"men, outerwear, fall",TRUE,Size,XS,CT-LIGHT-OVERCOAT-XS,500,shopify,25,deny,manual,280.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/man-poses-in-light-colored-overcoat.jpg?width=1600,1,Stone Overcoat,active
+light-overcoat,,,,,,,,S,CT-LIGHT-OVERCOAT-S,500,shopify,25,deny,manual,280.00,,TRUE,TRUE,,,,
+light-overcoat,,,,,,,,M,CT-LIGHT-OVERCOAT-M,500,shopify,25,deny,manual,280.00,,TRUE,TRUE,,,,
+light-overcoat,,,,,,,,L,CT-LIGHT-OVERCOAT-L,500,shopify,25,deny,manual,280.00,,TRUE,TRUE,,,,
+light-overcoat,,,,,,,,XL,CT-LIGHT-OVERCOAT-XL,500,shopify,25,deny,manual,280.00,,TRUE,TRUE,,,,
+camel-wool-coat,Camel Wool Coat,"<p>Relaxed, longline coat in brushed camel wool. Made for layering over knits.</p>",Common Thread,Outerwear,"women, outerwear, fall, bestseller",TRUE,Size,XS,CT-CAMEL-WOOL-COAT-XS,500,shopify,25,deny,manual,260.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/womens-fall-fashion-in-autumn-landscape.jpg?width=1600,1,Camel Wool Coat,active
+camel-wool-coat,,,,,,,,S,CT-CAMEL-WOOL-COAT-S,500,shopify,25,deny,manual,260.00,,TRUE,TRUE,,,,
+camel-wool-coat,,,,,,,,M,CT-CAMEL-WOOL-COAT-M,500,shopify,25,deny,manual,260.00,,TRUE,TRUE,,,,
+camel-wool-coat,,,,,,,,L,CT-CAMEL-WOOL-COAT-L,500,shopify,25,deny,manual,260.00,,TRUE,TRUE,,,,
+camel-wool-coat,,,,,,,,XL,CT-CAMEL-WOOL-COAT-XL,500,shopify,25,deny,manual,260.00,,TRUE,TRUE,,,,
+denim-trucker-jacket,Denim Trucker Jacket,<p>Classic mid-wash trucker in rigid 13oz denim. Pin not included.</p>,Common Thread,Outerwear,"men, outerwear, denim",TRUE,Size,XS,CT-DENIM-TRUCKER-JACKET-XS,500,shopify,25,deny,manual,128.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/hotdog-pin-man-jean-jacket.jpg?width=1600,1,Denim Trucker Jacket,active
+denim-trucker-jacket,,,,,,,,S,CT-DENIM-TRUCKER-JACKET-S,500,shopify,25,deny,manual,128.00,,TRUE,TRUE,,,,
+denim-trucker-jacket,,,,,,,,M,CT-DENIM-TRUCKER-JACKET-M,500,shopify,25,deny,manual,128.00,,TRUE,TRUE,,,,
+denim-trucker-jacket,,,,,,,,L,CT-DENIM-TRUCKER-JACKET-L,500,shopify,25,deny,manual,128.00,,TRUE,TRUE,,,,
+denim-trucker-jacket,,,,,,,,XL,CT-DENIM-TRUCKER-JACKET-XL,500,shopify,25,deny,manual,128.00,,TRUE,TRUE,,,,
+faux-fur-coat,Faux Fur Statement Coat,<p>Plush faux fur with a hidden hook closure. The coat that does all the talking.</p>,Common Thread,Outerwear,"women, outerwear, evening",TRUE,Size,XS,CT-FAUX-FUR-COAT-XS,500,shopify,25,deny,manual,310.00,360.00,TRUE,TRUE,https://burst.shopifycdn.com/photos/fashion-model-in-fur.jpg?width=1600,1,Faux Fur Statement Coat,active
+faux-fur-coat,,,,,,,,S,CT-FAUX-FUR-COAT-S,500,shopify,25,deny,manual,310.00,360.00,TRUE,TRUE,,,,
+faux-fur-coat,,,,,,,,M,CT-FAUX-FUR-COAT-M,500,shopify,25,deny,manual,310.00,360.00,TRUE,TRUE,,,,
+faux-fur-coat,,,,,,,,L,CT-FAUX-FUR-COAT-L,500,shopify,25,deny,manual,310.00,360.00,TRUE,TRUE,,,,
+faux-fur-coat,,,,,,,,XL,CT-FAUX-FUR-COAT-XL,500,shopify,25,deny,manual,310.00,360.00,TRUE,TRUE,,,,
+green-tailored-blazer,Forest Tailored Blazer,"<p>Sharp shoulders, nipped waist, deep forest green. Pairs with denim or its matching trouser.</p>",Common Thread,Tailoring,"women, tailoring, new",TRUE,Size,XS,CT-GREEN-TAILORED-BLAZER-XS,500,shopify,25,deny,manual,195.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/green-blazer-shoes-step-in-style.jpg?width=1600,1,Forest Tailored Blazer,active
+green-tailored-blazer,,,,,,,,S,CT-GREEN-TAILORED-BLAZER-S,500,shopify,25,deny,manual,195.00,,TRUE,TRUE,,,,
+green-tailored-blazer,,,,,,,,M,CT-GREEN-TAILORED-BLAZER-M,500,shopify,25,deny,manual,195.00,,TRUE,TRUE,,,,
+green-tailored-blazer,,,,,,,,L,CT-GREEN-TAILORED-BLAZER-L,500,shopify,25,deny,manual,195.00,,TRUE,TRUE,,,,
+green-tailored-blazer,,,,,,,,XL,CT-GREEN-TAILORED-BLAZER-XL,500,shopify,25,deny,manual,195.00,,TRUE,TRUE,,,,
+three-piece-suit,Three-Piece Suit,"<p>Jacket, waistcoat and trouser in Italian wool. Half-canvassed construction.</p>",Common Thread,Tailoring,"men, tailoring, evening",TRUE,Size,XS,CT-THREE-PIECE-SUIT-XS,500,shopify,25,deny,manual,495.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/three-piece-suit.jpg?width=1600,1,Three-Piece Suit,active
+three-piece-suit,,,,,,,,S,CT-THREE-PIECE-SUIT-S,500,shopify,25,deny,manual,495.00,,TRUE,TRUE,,,,
+three-piece-suit,,,,,,,,M,CT-THREE-PIECE-SUIT-M,500,shopify,25,deny,manual,495.00,,TRUE,TRUE,,,,
+three-piece-suit,,,,,,,,L,CT-THREE-PIECE-SUIT-L,500,shopify,25,deny,manual,495.00,,TRUE,TRUE,,,,
+three-piece-suit,,,,,,,,XL,CT-THREE-PIECE-SUIT-XL,500,shopify,25,deny,manual,495.00,,TRUE,TRUE,,,,
+silk-tie,Silk Tie,<p>Hand-rolled silk tie in a subtle micro pattern.</p>,Common Thread,Accessories,"men, accessories, tailoring",TRUE,Title,Default Title,CT-SILK-TIE-DefaultTitle,500,shopify,25,deny,manual,45.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/suit-and-tie.jpg?width=1600,1,Silk Tie,active
+oxford-button-down,Oxford Button-Down,<p>Garment-washed oxford cloth with a soft button-down collar. Tucks in clean.</p>,Common Thread,Shirts,"men, shirts, bestseller",TRUE,Size,XS,CT-OXFORD-BUTTON-DOWN-XS,500,shopify,25,deny,manual,78.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/mens-fashion-close-up-shirt-tucked-in-leaning.jpg?width=1600,1,Oxford Button-Down,active
+oxford-button-down,,,,,,,,S,CT-OXFORD-BUTTON-DOWN-S,500,shopify,25,deny,manual,78.00,,TRUE,TRUE,,,,
+oxford-button-down,,,,,,,,M,CT-OXFORD-BUTTON-DOWN-M,500,shopify,25,deny,manual,78.00,,TRUE,TRUE,,,,
+oxford-button-down,,,,,,,,L,CT-OXFORD-BUTTON-DOWN-L,500,shopify,25,deny,manual,78.00,,TRUE,TRUE,,,,
+oxford-button-down,,,,,,,,XL,CT-OXFORD-BUTTON-DOWN-XL,500,shopify,25,deny,manual,78.00,,TRUE,TRUE,,,,
+chambray-work-shirt,Chambray Work Shirt,<p>Lightweight chambray with twin chest pockets. Wear it open over a tee.</p>,Common Thread,Shirts,"men, shirts, denim",TRUE,Size,XS,CT-CHAMBRAY-WORK-SHIRT-XS,500,shopify,25,deny,manual,72.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/mens-fashion-man-in-shirt-and-jeans-leaning-on-bicycle.jpg?width=1600,1,Chambray Work Shirt,active
+chambray-work-shirt,,,,,,,,S,CT-CHAMBRAY-WORK-SHIRT-S,500,shopify,25,deny,manual,72.00,,TRUE,TRUE,,,,
+chambray-work-shirt,,,,,,,,M,CT-CHAMBRAY-WORK-SHIRT-M,500,shopify,25,deny,manual,72.00,,TRUE,TRUE,,,,
+chambray-work-shirt,,,,,,,,L,CT-CHAMBRAY-WORK-SHIRT-L,500,shopify,25,deny,manual,72.00,,TRUE,TRUE,,,,
+chambray-work-shirt,,,,,,,,XL,CT-CHAMBRAY-WORK-SHIRT-XL,500,shopify,25,deny,manual,72.00,,TRUE,TRUE,,,,
+linen-camp-shirt,Linen Camp Shirt,<p>Breezy European linen with a camp collar and boxy fit.</p>,Common Thread,Shirts,"men, shirts, summer, new",TRUE,Size,XS,CT-LINEN-CAMP-SHIRT-XS,500,shopify,25,deny,manual,84.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/man-in-white-and-light-tan-outfit.jpg?width=1600,1,Linen Camp Shirt,active
+linen-camp-shirt,,,,,,,,S,CT-LINEN-CAMP-SHIRT-S,500,shopify,25,deny,manual,84.00,,TRUE,TRUE,,,,
+linen-camp-shirt,,,,,,,,M,CT-LINEN-CAMP-SHIRT-M,500,shopify,25,deny,manual,84.00,,TRUE,TRUE,,,,
+linen-camp-shirt,,,,,,,,L,CT-LINEN-CAMP-SHIRT-L,500,shopify,25,deny,manual,84.00,,TRUE,TRUE,,,,
+linen-camp-shirt,,,,,,,,XL,CT-LINEN-CAMP-SHIRT-XL,500,shopify,25,deny,manual,84.00,,TRUE,TRUE,,,,
+essential-tee-cobalt,Essential Tee - Cobalt,<p>Heavyweight 240gsm cotton tee in cobalt. Holds its shape wash after wash.</p>,Common Thread,T-Shirts,"unisex, t-shirts, summer",TRUE,Size,XS,CT-ESSENTIAL-TEE-COBALT-XS,500,shopify,25,deny,manual,32.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/cobalt-blue-t-shirt.jpg?width=1600,1,Essential Tee - Cobalt,active
+essential-tee-cobalt,,,,,,,,S,CT-ESSENTIAL-TEE-COBALT-S,500,shopify,25,deny,manual,32.00,,TRUE,TRUE,,,,
+essential-tee-cobalt,,,,,,,,M,CT-ESSENTIAL-TEE-COBALT-M,500,shopify,25,deny,manual,32.00,,TRUE,TRUE,,,,
+essential-tee-cobalt,,,,,,,,L,CT-ESSENTIAL-TEE-COBALT-L,500,shopify,25,deny,manual,32.00,,TRUE,TRUE,,,,
+essential-tee-cobalt,,,,,,,,XL,CT-ESSENTIAL-TEE-COBALT-XL,500,shopify,25,deny,manual,32.00,,TRUE,TRUE,,,,
+essential-tee-3-pack,Essential Tee 3-Pack,"<p>Three essential tees in white, grey and black.</p>",Common Thread,T-Shirts,"unisex, t-shirts, bestseller",TRUE,Size,XS,CT-ESSENTIAL-TEE-3-PACK-XS,500,shopify,25,deny,manual,85.00,96.00,TRUE,TRUE,https://burst.shopifycdn.com/photos/stack-of-t-shirts.jpg?width=1600,1,Essential Tee 3-Pack,active
+essential-tee-3-pack,,,,,,,,S,CT-ESSENTIAL-TEE-3-PACK-S,500,shopify,25,deny,manual,85.00,96.00,TRUE,TRUE,,,,
+essential-tee-3-pack,,,,,,,,M,CT-ESSENTIAL-TEE-3-PACK-M,500,shopify,25,deny,manual,85.00,96.00,TRUE,TRUE,,,,
+essential-tee-3-pack,,,,,,,,L,CT-ESSENTIAL-TEE-3-PACK-L,500,shopify,25,deny,manual,85.00,96.00,TRUE,TRUE,,,,
+essential-tee-3-pack,,,,,,,,XL,CT-ESSENTIAL-TEE-3-PACK-XL,500,shopify,25,deny,manual,85.00,96.00,TRUE,TRUE,,,,
+stonewash-slim-jeans,Stonewash Slim Jean,<p>Slim through the leg with a light stonewash and a touch of stretch.</p>,Common Thread,Denim,"men, denim, bestseller",TRUE,Size,28,CT-STONEWASH-SLIM-JEANS-28,500,shopify,25,deny,manual,98.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/mens-fashion-stonewash-jeans-and-boots.jpg?width=1600,1,Stonewash Slim Jean,active
+stonewash-slim-jeans,,,,,,,,30,CT-STONEWASH-SLIM-JEANS-30,500,shopify,25,deny,manual,98.00,,TRUE,TRUE,,,,
+stonewash-slim-jeans,,,,,,,,32,CT-STONEWASH-SLIM-JEANS-32,500,shopify,25,deny,manual,98.00,,TRUE,TRUE,,,,
+stonewash-slim-jeans,,,,,,,,34,CT-STONEWASH-SLIM-JEANS-34,500,shopify,25,deny,manual,98.00,,TRUE,TRUE,,,,
+stonewash-slim-jeans,,,,,,,,36,CT-STONEWASH-SLIM-JEANS-36,500,shopify,25,deny,manual,98.00,,TRUE,TRUE,,,,
+denim-cutoff-shorts,High-Rise Cutoff Short,<p>Vintage-wash denim with a high rise and raw hem.</p>,Common Thread,Denim,"women, denim, summer",TRUE,Size,28,CT-DENIM-CUTOFF-SHORTS-28,500,shopify,25,deny,manual,64.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/womens-fashion-woman-denim-shorts-holding-pockets.jpg?width=1600,1,High-Rise Cutoff Short,active
+denim-cutoff-shorts,,,,,,,,30,CT-DENIM-CUTOFF-SHORTS-30,500,shopify,25,deny,manual,64.00,,TRUE,TRUE,,,,
+denim-cutoff-shorts,,,,,,,,32,CT-DENIM-CUTOFF-SHORTS-32,500,shopify,25,deny,manual,64.00,,TRUE,TRUE,,,,
+denim-cutoff-shorts,,,,,,,,34,CT-DENIM-CUTOFF-SHORTS-34,500,shopify,25,deny,manual,64.00,,TRUE,TRUE,,,,
+denim-cutoff-shorts,,,,,,,,36,CT-DENIM-CUTOFF-SHORTS-36,500,shopify,25,deny,manual,64.00,,TRUE,TRUE,,,,
+denim-overalls,Denim Overalls,<p>Relaxed overalls in a clean indigo wash with adjustable straps.</p>,Common Thread,Denim,"women, denim, new",TRUE,Size,XS,CT-DENIM-OVERALLS-XS,500,shopify,25,deny,manual,120.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/model-in-heels-and-overalls-with-blue.jpg?width=1600,1,Denim Overalls,active
+denim-overalls,,,,,,,,S,CT-DENIM-OVERALLS-S,500,shopify,25,deny,manual,120.00,,TRUE,TRUE,,,,
+denim-overalls,,,,,,,,M,CT-DENIM-OVERALLS-M,500,shopify,25,deny,manual,120.00,,TRUE,TRUE,,,,
+denim-overalls,,,,,,,,L,CT-DENIM-OVERALLS-L,500,shopify,25,deny,manual,120.00,,TRUE,TRUE,,,,
+denim-overalls,,,,,,,,XL,CT-DENIM-OVERALLS-XL,500,shopify,25,deny,manual,120.00,,TRUE,TRUE,,,,
+floral-sundress,Floral Sundress,<p>Airy floral print with a smocked back and flutter sleeves.</p>,Common Thread,Dresses,"women, dresses, summer, bestseller",TRUE,Size,XS,CT-FLORAL-SUNDRESS-XS,500,shopify,25,deny,manual,118.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/woman-in-summer-floral-fashion.jpg?width=1600,1,Floral Sundress,active
+floral-sundress,,,,,,,,S,CT-FLORAL-SUNDRESS-S,500,shopify,25,deny,manual,118.00,,TRUE,TRUE,,,,
+floral-sundress,,,,,,,,M,CT-FLORAL-SUNDRESS-M,500,shopify,25,deny,manual,118.00,,TRUE,TRUE,,,,
+floral-sundress,,,,,,,,L,CT-FLORAL-SUNDRESS-L,500,shopify,25,deny,manual,118.00,,TRUE,TRUE,,,,
+floral-sundress,,,,,,,,XL,CT-FLORAL-SUNDRESS-XL,500,shopify,25,deny,manual,118.00,,TRUE,TRUE,,,,
+white-midi-dress,White Cotton Midi Dress,<p>Crisp cotton poplin midi with a tiered skirt.</p>,Common Thread,Dresses,"women, dresses, summer",TRUE,Size,XS,CT-WHITE-MIDI-DRESS-XS,500,shopify,25,deny,manual,135.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/woman-in-white-dress-outside.jpg?width=1600,1,White Cotton Midi Dress,active
+white-midi-dress,,,,,,,,S,CT-WHITE-MIDI-DRESS-S,500,shopify,25,deny,manual,135.00,,TRUE,TRUE,,,,
+white-midi-dress,,,,,,,,M,CT-WHITE-MIDI-DRESS-M,500,shopify,25,deny,manual,135.00,,TRUE,TRUE,,,,
+white-midi-dress,,,,,,,,L,CT-WHITE-MIDI-DRESS-L,500,shopify,25,deny,manual,135.00,,TRUE,TRUE,,,,
+white-midi-dress,,,,,,,,XL,CT-WHITE-MIDI-DRESS-XL,500,shopify,25,deny,manual,135.00,,TRUE,TRUE,,,,
+red-maxi-dress,Poppy Maxi Dress,<p>Floor-length maxi in poppy red with a wrap bodice.</p>,Common Thread,Dresses,"women, dresses, evening",TRUE,Size,XS,CT-RED-MAXI-DRESS-XS,500,shopify,25,deny,manual,145.00,175.00,TRUE,TRUE,https://burst.shopifycdn.com/photos/woman-in-red-in-yellow-field.jpg?width=1600,1,Poppy Maxi Dress,active
+red-maxi-dress,,,,,,,,S,CT-RED-MAXI-DRESS-S,500,shopify,25,deny,manual,145.00,175.00,TRUE,TRUE,,,,
+red-maxi-dress,,,,,,,,M,CT-RED-MAXI-DRESS-M,500,shopify,25,deny,manual,145.00,175.00,TRUE,TRUE,,,,
+red-maxi-dress,,,,,,,,L,CT-RED-MAXI-DRESS-L,500,shopify,25,deny,manual,145.00,175.00,TRUE,TRUE,,,,
+red-maxi-dress,,,,,,,,XL,CT-RED-MAXI-DRESS-XL,500,shopify,25,deny,manual,145.00,175.00,TRUE,TRUE,,,,
+pink-summer-set,Blush Two-Piece Set,<p>Matching top and short in soft blush. Wear together or apart.</p>,Common Thread,Sets,"women, sets, summer, new",TRUE,Size,XS,CT-PINK-SUMMER-SET-XS,500,shopify,25,deny,manual,110.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/pink-summer-outfit.jpg?width=1600,1,Blush Two-Piece Set,active
+pink-summer-set,,,,,,,,S,CT-PINK-SUMMER-SET-S,500,shopify,25,deny,manual,110.00,,TRUE,TRUE,,,,
+pink-summer-set,,,,,,,,M,CT-PINK-SUMMER-SET-M,500,shopify,25,deny,manual,110.00,,TRUE,TRUE,,,,
+pink-summer-set,,,,,,,,L,CT-PINK-SUMMER-SET-L,500,shopify,25,deny,manual,110.00,,TRUE,TRUE,,,,
+pink-summer-set,,,,,,,,XL,CT-PINK-SUMMER-SET-XL,500,shopify,25,deny,manual,110.00,,TRUE,TRUE,,,,
+leather-lace-up-boots,Leather Lace-Up Boot,<p>Full-grain leather boot on a Goodyear-welted lug sole.</p>,Common Thread,Shoes,"unisex, shoes, fall",TRUE,Size,6,CT-LEATHER-LACE-UP-BOOTS-6,500,shopify,25,deny,manual,210.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/boots-on-blue.jpg?width=1600,1,Leather Lace-Up Boot,active
+leather-lace-up-boots,,,,,,,,7,CT-LEATHER-LACE-UP-BOOTS-7,500,shopify,25,deny,manual,210.00,,TRUE,TRUE,,,,
+leather-lace-up-boots,,,,,,,,8,CT-LEATHER-LACE-UP-BOOTS-8,500,shopify,25,deny,manual,210.00,,TRUE,TRUE,,,,
+leather-lace-up-boots,,,,,,,,9,CT-LEATHER-LACE-UP-BOOTS-9,500,shopify,25,deny,manual,210.00,,TRUE,TRUE,,,,
+leather-lace-up-boots,,,,,,,,10,CT-LEATHER-LACE-UP-BOOTS-10,500,shopify,25,deny,manual,210.00,,TRUE,TRUE,,,,
+leather-lace-up-boots,,,,,,,,11,CT-LEATHER-LACE-UP-BOOTS-11,500,shopify,25,deny,manual,210.00,,TRUE,TRUE,,,,
+studded-flats,Studded Pointed Flat,<p>Pointed-toe leather flat with gold stud detailing.</p>,Common Thread,Shoes,"women, shoes",TRUE,Size,6,CT-STUDDED-FLATS-6,500,shopify,25,deny,manual,125.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/studded-flats.jpg?width=1600,1,Studded Pointed Flat,active
+studded-flats,,,,,,,,7,CT-STUDDED-FLATS-7,500,shopify,25,deny,manual,125.00,,TRUE,TRUE,,,,
+studded-flats,,,,,,,,8,CT-STUDDED-FLATS-8,500,shopify,25,deny,manual,125.00,,TRUE,TRUE,,,,
+studded-flats,,,,,,,,9,CT-STUDDED-FLATS-9,500,shopify,25,deny,manual,125.00,,TRUE,TRUE,,,,
+studded-flats,,,,,,,,10,CT-STUDDED-FLATS-10,500,shopify,25,deny,manual,125.00,,TRUE,TRUE,,,,
+studded-flats,,,,,,,,11,CT-STUDDED-FLATS-11,500,shopify,25,deny,manual,125.00,,TRUE,TRUE,,,,
+aviator-sunglasses,Gold Aviator Sunglasses,<p>Thin gold frames with gradient lenses and full UV protection.</p>,Common Thread,Accessories,"unisex, accessories, summer",TRUE,Title,Default Title,CT-AVIATOR-SUNGLASSES-DefaultTitle,500,shopify,25,deny,manual,95.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/woman-wearing-aviator-glasses.jpg?width=1600,1,Gold Aviator Sunglasses,active
+felt-fedora,Felt Fedora,<p>Wool felt fedora with a grosgrain band.</p>,Common Thread,Accessories,"men, accessories, fall",TRUE,Title,Default Title,CT-FELT-FEDORA-DefaultTitle,500,shopify,25,deny,manual,68.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/the-man-in-the-hat.jpg?width=1600,1,Felt Fedora,active
+leather-messenger-bag,Leather Messenger Bag,"<p>Vegetable-tanned leather messenger that fits a 15"" laptop.</p>",Common Thread,Bags,"men, bags, bestseller",TRUE,Title,Default Title,CT-LEATHER-MESSENGER-BAG-DefaultTitle,500,shopify,25,deny,manual,240.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/man-holding-a-leather-bag-on-a-set-of-stairs.jpg?width=1600,1,Leather Messenger Bag,active
+wood-leather-watch,Walnut & Leather Watch,<p>Walnut case with a Japanese quartz movement and leather strap.</p>,Common Thread,Accessories,"unisex, accessories",TRUE,Title,Default Title,CT-WOOD-LEATHER-WATCH-DefaultTitle,500,shopify,25,deny,manual,180.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/wood-leather-watches.jpg?width=1600,1,Walnut & Leather Watch,active
+gold-pendant-necklace,Gold Pendant Necklace,<p>Delicate 14k gold-plated chain with a disc pendant.</p>,Common Thread,Jewelry,"women, jewelry, summer",TRUE,Title,Default Title,CT-GOLD-PENDANT-NECKLACE-DefaultTitle,500,shopify,25,deny,manual,58.00,,TRUE,TRUE,https://burst.shopifycdn.com/photos/stylish-summer-necklace.jpg?width=1600,1,Gold Pendant Necklace,active
