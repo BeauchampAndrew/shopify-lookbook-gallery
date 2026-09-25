@@ -4,6 +4,8 @@ A shoppable lookbook section for any Shopify theme. Shoppers click a look, see e
 
 It's one file. No app, no monthly fee, no code knowledge needed to install it.
 
+**Using Claude Code, Cursor or another AI coding tool?** Point it at this repo and tell it what you want, like "install this in my theme" or "make the popup image go on the right and add a quantity picker". [AGENTS.md](AGENTS.md) tells it how the section works and how to change it without breaking it in other themes.
+
 ## What it does
 
 - Grid of look photos. Clicking one opens a popup with the photo and every product in that look.
